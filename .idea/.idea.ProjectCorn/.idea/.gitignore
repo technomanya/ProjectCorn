@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.ProjectCorn.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\YavuzWorkplace\ProjectCorn\.idea\.idea.ProjectCorn\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
